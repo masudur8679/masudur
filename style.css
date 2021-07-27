@@ -1,0 +1,109 @@
+body{
+	background:navajowhite;
+}
+h2{
+	color:green;
+}
+h1{
+	color: green;
+}
+a{
+	color: green;
+	text-decoration: none;
+}
+p{
+	font-size: 30px;
+	font-style:italic;
+}
+ul{
+	color:brown;
+}
+ol{
+	color: red;
+}
+marquee{
+	font-size: 20px;
+}
+
+
+.full-wraper{
+	width: 100%;
+	clear: both;
+	
+}
+
+.wraper{
+	width: 1100px;
+	margin: 0 auto;
+	
+}
+.logu{
+	width: 140px;
+	padding-left: 10px ;
+	float: left;
+}
+.manu{
+	float: left;
+	width: 960px;
+	text-align: right;
+	margin-top:10px;
+}
+.manu{
+	color: red;
+	padding: 10px;
+	font-size: 24px;
+}
+a{
+	text-decoration: none;
+	padding: 10px;
+	padding-top: 10px 0;
+}
+
+.banner-img{
+	background-image: url(img/image01.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 100px 0;
+	
+}
+.banner-text{
+	text-align: center;
+}
+.banner-text h1{
+	color: red;
+}
+.banner-text h3{
+	color: green;
+}
+.Service-iteam{
+	width: 350px;
+	float: left;
+	text-align: center;
+	margin-top: 20px ;
+	padding: 20px 0;
+	border: 1px solid #777;
+	margin-left: 10px;
+
+
+}
+.Service-iteam h3{
+	display: inline-block ;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
